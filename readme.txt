@@ -1,3 +1,3 @@
 Creating a new branch is quike
 Creating a new branch is quike and easy
-Creating a new branch is quike AND easy
+Creating a new branch is quike && easy

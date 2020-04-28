@@ -1,1 +1,3 @@
-Creating a new branch is quikc
+Creating a new branch is quike
+Creating a new branch is quike and easy
+Creating a new branch is quike && easy
